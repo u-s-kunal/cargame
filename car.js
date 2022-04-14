@@ -127,7 +127,7 @@ function Play() {
 
         player.score++;
 //for Game speed
-        player.speed += 0.001;
+        player.speed += 0.002;
         
 
 //for setting High Score in Local storage
